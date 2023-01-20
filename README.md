@@ -1,6 +1,7 @@
-<h1 align="center">Hello, I am Jakub 👀</h1>
+<h1 align="center">Hello, I am Jakub 👋</h1>
 <h2>📍 About me</h2>
-I am self taught iOS developer, which creates his own creative projects. I am open for job offers, where I can get my first comercial experience. My goal is to make interesting and useful applications which will be available on AppStore. Beside programming I love to watch NBA and go to the gym. Now have a look on my latest projects down below!
+
+I am self taught iOS developer 📱, which creates his own creative projects. I am open for job offers 💼, where I can get my first comercial experience. My goal 🎯 is to make interesting and useful applications which will be available on AppStore. Beside programming I love to watch NBA 🏀 and go to the gym. Now have a look on my latest projects 🤓 down below!
 
 <br>
 <h2>📲  Projects</h2>
@@ -19,6 +20,10 @@ I am self taught iOS developer, which creates his own creative projects. I am op
 </p>
 I am also familiar with: C++, C#, CSS, HTML, JavaScript, PHP, Python, SQL
 
-<br>
+<br><br>
 <h2>📬  Contact</h2>
-E-mail: jakub.prus.biznes@gmail.com
+
+E-mail: jakub.prus.biznes@gmail.com<br>
+
+Socials: 
+[LinkedIn](https://www.linkedin.com/in/jakub-prus-593a68261/), [Facebook](https://www.facebook.com/kuba.prus.79/)
