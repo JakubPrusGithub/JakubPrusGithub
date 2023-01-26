@@ -25,5 +25,7 @@ I am also familiar with: C++, C#, CSS, HTML, JavaScript, PHP, Python, SQL
 
 E-mail: jakub.prus.biznes@gmail.com<br>
 
-Socials: 
-[LinkedIn](https://www.linkedin.com/in/jakub-prus-593a68261/)
+Socials: <br>
+[LinkedIn](https://www.linkedin.com/in/jakub-prus-593a68261/) <br>
+[Fiverr](https://www.fiverr.com/share/Q4o1YR) <br> <br>
+Discord: B)#7800
