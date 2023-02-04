@@ -7,7 +7,7 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <h2>📲  Projects</h2>
 
 * 👨‍💻 I’m currently working on [WhiskeyPlease](https://github.com/jakubprusgithub/whiskeypleaseapp). This application helps users get acquainted with the world of whiskey and allows them to create a personal ranking list of degustated liquors.<br>
-* 👶 My first project is [MarvelComics](https://github.com/JakubPrusGithub/MarvelComicsApp), which presents 10 Marvel Comics from a website using API.
+* 👶 My first project is [MarvelComics](https://github.com/JakubPrusGithub/MarvelComicsApp), which presents 10 Marvel Comics from a website using REST API.
 
 <br>
 <h2>🛠️  Languages and Tools</h2>
