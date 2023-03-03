@@ -7,7 +7,9 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <h2>📲  Projects</h2>
 
 * 👨‍💻 I’m currently working on [WhiskeyPlease](https://github.com/jakubprusgithub/whiskeypleaseapp). This application helps users get acquainted with the world of whiskey and allows them to create a personal ranking list of degustated liquors.<br>
-* 👶 My first project is [MarvelComics](https://github.com/JakubPrusGithub/MarvelComicsApp), which presents 10 Marvel Comics from a website using API.
+* 🧩 In my free time, I like to solve coding challenges using Swift on the Codewars platform. Most of my solutions can be found in my [Codewars repository](https://github.com/JakubPrusGithub/Codewars) and more details about my [profile](https://www.codewars.com/users/JakubPrus) and rank are presented below.
+<br><br><img src="https://www.codewars.com/users/JakubPrus/badges/small">
+* 👶 My first project was [MarvelComics](https://github.com/JakubPrusGithub/MarvelComicsApp), which presents 10 Marvel Comics from a website using official Marvel's API.
 
 * ⚡️ My plan for the future is to develop my first AppStore application called Energetic, which will be a community forum for the people who love energy drinks!
 
@@ -29,5 +31,6 @@ E-mail: jakub.prus.biznes@gmail.com<br>
 
 Socials: <br>
 [LinkedIn](https://www.linkedin.com/in/jakub-prus-593a68261/) <br>
-[Fiverr](https://www.fiverr.com/share/Q4o1YR) <br> <br>
-Discord: B)#7800
+[Fiverr](https://www.fiverr.com/share/Q4o1YR) <br>
+[Codewars](https://www.codewars.com/users/JakubPrus) <br> <br>
+Discord: krekumba#7800
