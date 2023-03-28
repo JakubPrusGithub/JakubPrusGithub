@@ -6,7 +6,7 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <br>
 <h2>📲  Projects</h2>
 
-* 👨‍💻 I’m currently working on [ParkHere](https://github.com/jakubprusgithub/parkhere), which is project for the competition from "Zaprogramuj Życie" discord, funded by JustJoinIT. The topic of the competition is "reservation", which resulted in me and my friend creating an app to allow easy reservations for parking spots. It will be finished in march!<br>
+* 👨‍💻 I’m currently working on [ParkHere](https://github.com/jakubprusgithub/parkhere), which is project for the competition from "Zaprogramuj Życie" discord, funded by JustJoinIT. The topic of the competition is "reservation", which resulted in me and my friend creating an app to allow easy reservations for parking spots. It will be finished in march - Coming soon!<br>
 * 🥃 Recently I finished my new app [WhiskeyPlease](https://github.com/jakubprusgithub/whiskeypleaseapp), which helps users get acquainted with the world of whiskey and allows them to create a personal ranking list of degustated liquors.<br>  
 * 🧩 In my free time, I like to solve coding challenges using Swift on the Codewars platform. Most of my solutions can be found in my [Codewars repository](https://github.com/JakubPrusGithub/Codewars) and more details about my [profile](https://www.codewars.com/users/JakubPrus) and rank are presented below.
 <br><br><img src="https://www.codewars.com/users/JakubPrus/badges/small">
