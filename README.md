@@ -32,5 +32,6 @@ E-mail: jakub.prus.biznes@gmail.com<br>
 
 Socials: <br>
 [LinkedIn](https://www.linkedin.com/in/jakub-prus-ios) <br>
-[Codewars](https://www.codewars.com/users/JakubPrus) <br> <br>
+[Codewars](https://www.codewars.com/users/JakubPrus) <br>
+[Stack Overflow](https://stackoverflow.com/users/21628190/jakub-prus)<br> <br>
 Discord: krekumba#7800
