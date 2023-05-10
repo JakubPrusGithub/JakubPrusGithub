@@ -6,8 +6,8 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <br>
 <h2>📲  Projects</h2>
 
-* 🌤️ My most controversial and creative project is [JustWeather](https://github.com/JakubPrusGithub/JustWeather). As the name suggests, the app simply shows the weather but with a rather unconventional design that catches the eye.
-* 🏆 My most recent accomplishment is an app [ParkHere](https://github.com/jakubprusgithub/parkhere), which won the competition from "Zaprogramuj Życie" discord. The topic of the competition was "reservation", which resulted in me and my friend creating an app to allow easy reservations for 🅿️arking spots.
+* 🌤️ My most recent and unusual project is [JustWeather](https://github.com/JakubPrusGithub/JustWeather). As the name suggests, the app simply shows the weather but with a rather unconventional design that catches the eye.
+* 🏆 My best accomplishment is an app [ParkHere](https://github.com/jakubprusgithub/parkhere), which won the competition from "Zaprogramuj Życie" discord. The topic of the competition was "reservation", which resulted in me and my friend creating an app to allow easy reservations for 🅿️arking spots.
 * 🥃 My first UIKit app was [WhiskeyPlease](https://github.com/jakubprusgithub/whiskeypleaseapp), that helps users get acquainted with the world of whiskey and allows them to create a personal ranking list of degustated liquors.<br>  
 * 🧩 In my free time, I like to solve coding challenges using Swift on the Codewars platform. Most of my solutions can be found in my [Codewars repository](https://github.com/JakubPrusGithub/Codewars) and more details about my [Profile](https://www.codewars.com/users/JakubPrus) and rank are presented below.
 <br><br><img src="https://www.codewars.com/users/JakubPrus/badges/small">
