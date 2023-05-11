@@ -13,8 +13,6 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <br><br><img src="https://www.codewars.com/users/JakubPrus/badges/small">
 * 🦸‍♂️ My first SwiftUI independent project was [MarvelComics](https://github.com/JakubPrusGithub/MarvelComicsApp) and it presents Marvel Comics from a website using official Marvel's API.
 
-* ⚡️ My plan for the future is to develop my first AppStore application called Energetic, which will be a community forum for the people who love energy drinks!
-
 <br>
 <h2>🛠️  Languages and Tools</h2>
 <p align="left">
