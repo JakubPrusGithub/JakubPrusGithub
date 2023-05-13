@@ -24,9 +24,8 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <img src="https://vectorwiki.com/images/qz3pp__blender.svg" alt="blender" width="54" height="54"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/>
 </p>
-I am also familiar with: C++, C#, CSS, HTML, JavaScript, PHP, Python, SQL
 
-<br><br>
+<br>
 <h2>📬  Contact</h2>
 
 E-mail: jakub.prus.biznes@gmail.com<br>
