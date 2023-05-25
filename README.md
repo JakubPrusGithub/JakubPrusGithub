@@ -6,7 +6,8 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <br>
 <h2>📲  Projects</h2>
 
-* 🌤️ My most recent and unusual project is [JustWeather](https://github.com/JakubPrusGithub/JustWeather). As the name suggests, the app simply shows the weather but with a rather unconventional design that catches the eye.
+* ☀️ I am currently working on <b>Tanly</b> - app that allows you to create your own tanning sessions and track your progress. I am not creating a repository for this project, but the application will be soon available on the AppStore. Stay tuned!
+* 🌦️ My most recent and unusual project is [JustWeather](https://github.com/JakubPrusGithub/JustWeather). As the name suggests, the app simply shows the weather but with a rather unconventional design that catches the eye.
 * 🏆 My best accomplishment is an app [ParkHere](https://github.com/jakubprusgithub/parkhere), which won the competition from "Zaprogramuj Życie" discord. The topic of the competition was "reservation", which resulted in me and my friend creating an app to allow easy reservations for 🅿️arking spots.
 * 🥃 My first UIKit app was [WhiskeyPlease](https://github.com/jakubprusgithub/whiskeypleaseapp), that helps users get acquainted with the world of whiskey and allows them to create a personal ranking list of degustated liquors.<br>  
 * 🦸‍♂️ My first SwiftUI independent project was [MarvelComics](https://github.com/JakubPrusGithub/MarvelComicsApp) and it presents Marvel Comics from a website using official Marvel's API.<br>
