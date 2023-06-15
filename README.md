@@ -6,7 +6,7 @@ I am a self-taught iOS developer 📱, who creates his own creative projects. I 
 <br>
 <h2>📲  Projects</h2>
 
-* ☀️ I am currently working on <b>Tanly</b> - app that allows you to create your own tanning sessions and track your progress. I am not creating a repository for this project, but the application will be soon available on the AppStore. Stay tuned!
+* ☀️ I am currently working on [Tanly](https://apps.apple.com/us/app/tanly-track-tanning-progress/id6450137043) - app that allows you to create your own sunbathing sessions and track your tan progress. Check it now on the App Store!
 * 🌦️ My most recent and unusual project is [JustWeather](https://github.com/JakubPrusGithub/JustWeather). As the name suggests, the app simply shows the weather but with a rather unconventional design that catches the eye.
 * 🏆 My best accomplishment is an app [ParkHere](https://github.com/jakubprusgithub/parkhere), which won the competition from "Zaprogramuj Życie" discord. The topic of the competition was "reservation", which resulted in me and my friend creating an app to allow easy reservations for 🅿️arking spots.
 * 🥃 My first UIKit app was [WhiskeyPlease](https://github.com/jakubprusgithub/whiskeypleaseapp), that helps users get acquainted with the world of whiskey and allows them to create a personal ranking list of degustated liquors.<br>  
