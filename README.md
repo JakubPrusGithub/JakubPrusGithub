@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Jakub 👋</h1>
 <h2>📍 About me</h2>
 
-I am a self-taught iOS developer 📱, who creates his own creative projects. I am open to job offers 💼, where I can get my first commercial experience. My goal 🎯 is to make interesting and useful applications that will be available on AppStore. Besides programming, I love to watch NBA 🏀 and go to the gym. Now have a look at my latest projects 🤓 down below!
+I'm a self-taught iOS developer 📱, actively seeking job opportunities 💼. With commercial experience under my belt and several successful projects – one already available on the AppStore – I'm on a mission 🎯 to create captivating and practical applications destined to be embraced by millions! Besides programming, I love to watch NBA 🏀 and go to the gym. Now have a look at my latest projects 🤓 down below!
 
 <br>
 <h2>📲  Projects</h2>
